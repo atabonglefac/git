@@ -1,0 +1,8 @@
+i love working on git because it is so easy and good to use. most people always fall into the hole of having conflicts and they do not know how to solve it and it is always crazy to hear that. for that, i ctreated this file to help solve of thses issues which would be faced at ,ost times at work.
+
+
+to solve a conflict in git, use git pull command 
+to revert an existing commit, do git revert --heard
+to save work for future withounght commiting it to th vcs, use git base
+
+ok let me see what magic this has on this then i would conclude that git is actually so perfect i mean.
