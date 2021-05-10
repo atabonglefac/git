@@ -8,3 +8,7 @@ to save work for future withounght commiting it to th vcs, use git base
 ok let me see what magic this has on this then i would conclude that git is actually so perfect i mean.ok
   try me now...
 
+this line is to solve a git conflict
+this is just for practice
+this line is to solve a conflict
+>>>>>>> 15024af0be6b2412bf7d39cd01e473165a445205
