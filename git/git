@@ -5,4 +5,4 @@ to solve a conflict in git, use git pull command
 to revert an existing commit, do git revert --heard
 to save work for future withounght commiting it to th vcs, use git base
 
-ok let me see what magic this has on this then i would conclude that git is actually so perfect i mean.
+ok let me see what magic this has on this then i would conclude that git is actually so perfect i mean.ok
